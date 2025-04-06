@@ -28,7 +28,12 @@ Herramientas que manejo:</h3>
  <img src="https://img.icons8.com/?size=256&id=Ny0t2MYrJ70p&format=png" alt="power bi" width="50" height="50"/>
  <img src="https://img.icons8.com/?size=256&id=13677&format=png" alt="photo" width="50" height="50"/>
  <img src="https://img.icons8.com/?size=256&id=117561&format=png" alt="excel" width="50" height="50"/>
- 
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikuvi&langs_count=10&theme=tokyonight&layout=compact" alt="nikuvi :: Top Langs" />
+</p>
+
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=nikuvi&label=Profile%20views&color=0e75b6&style=flat" alt="nikuvi" /> 
 </p>
