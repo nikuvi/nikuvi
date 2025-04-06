@@ -44,6 +44,11 @@ Herramientas que manejo:</h3>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikuvi&langs_count=10&theme=tokyonight&layout=compact" alt="nikuvi :: Top Langs" />
 </p>
+<br/><br/>
+
+[![nikuvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikuvi&show_icons=true)](https://github.com/nikuvi)
+
+<br/>
 
 <hr width="60%" >
 
