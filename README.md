@@ -42,12 +42,6 @@ Herramientas que manejo:</h3>
 
 <hr width="60%" >
 
-<p align="left">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snikuvi&show_icons=true)
-</p>
-
-<hr width="60%" >
-
 ### Github Repos
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EugeniaMinghe&repo=Analisis_de_estadisticas_de_rendimiento_de_jugadores_NBA&show_owner=false)](https://github.com/EugeniaMinghe/Analisis_de_estadisticas_de_rendimiento_de_jugadores_NBA)
