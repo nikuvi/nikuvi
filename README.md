@@ -49,7 +49,7 @@ Herramientas que manejo:</h3>
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EugeniaMinghe&repo=AnalisisNBA&show_owner=true)](https://github.com/EugeniaMinghe/Analisis_de_estadisticas_de_rendimiento_de_jugadores_NBA)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EugeniaMinghe&repo=Analisis_de_estadisticas_de_rendimiento_de_jugadores_NBA&show_owner=false)](https://github.com/EugeniaMinghe/Analisis_de_estadisticas_de_rendimiento_de_jugadores_NBA)
 
 
 
