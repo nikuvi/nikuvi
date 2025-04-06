@@ -42,7 +42,9 @@ Herramientas que manejo:</h3>
 
 <hr width="60%" >
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikuvi&langs_count=10&theme=tokyonight&layout=compact" alt="nikuvi" /></p>
+<p align="left">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snikuvi&show_icons=true)
+</p>
 
 <hr width="60%" >
 
