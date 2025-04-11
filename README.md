@@ -44,7 +44,8 @@ Herramientas que manejo:</h3>
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EugeniaMinghe&repo=Analisis_de_estadisticas_de_rendimiento_de_jugadores_NBA&show_owner=false)](https://github.com/EugeniaMinghe/Analisis_de_estadisticas_de_rendimiento_de_jugadores_NBA)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nikuvi&repo=Gametime-Stats---NBA-Data-Analytics-Consultancy&show_owner=false)](https://github.com/nikuvi/Gametime-Stats---NBA-Data-Analytics-Consultancy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nikuvi&repo=Adventures-Work-Cycles&show_owner=false)](https://github.com/nikuvi/Adventures-Work-Cycles)
 
 
 
