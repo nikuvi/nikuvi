@@ -5,7 +5,9 @@
    <img src="https://readme-typing-svg.herokuapp.com?color=FA8072&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola+soy+Nicole+%F0%9F%91%8B" alt="Headline" />
 </div>
  <h3 align="center">☕Contacto:</h3>
-  <img src="https://komarev.com/ghpvc/?username=nikuvi&label=Profile%20views&color=0e75b6&style=flat" alt="nikuvi" /> 
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=nikuvi&label=Profile%20views&color=0e75b6&style=flat" alt="nikuvi" /> 
+</p>
 <div align=center>
      <a href="https://www.linkedin.com/in/nicoleviviant/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=LinkedIN&logoColor" alt="LinkedIn" /> </a>
      <a href="https://discord.com/users/nikuvi"><img src="https://img.shields.io/badge/-Discord-blue?style=flat-roundedrectangle&logo=Discord&logoColor" alt="discord" /> </a>
