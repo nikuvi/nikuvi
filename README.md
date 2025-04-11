@@ -19,7 +19,7 @@
  <img align="right" alt="data" width="300" src="https://media1.tenor.com/m/Ymj95Wad2LoAAAAd/gollum-power-bi.gif" width="150" height="130"/>
 Sobre mí: </h3>
  <p>
- 🌱 Soy estudiante en las primeras etapas de programación y Data Analytics, con un compromiso constante con mi desarrollo profesional en estas áreas. Poseo más de 8 años de experiencia en atención al público, donde he desarrollado habilidades en la comunicación, empatía y resolución de problemas.</b>
+ ✏️¡Hola! Soy estudiante en formación en Programación y Data Analytics, comprometida con el aprendizaje continuo y el desarrollo profesional en el mundo tech. Cuento con 8 años de experiencia en atención al cliente, donde fortalecí habilidades clave como la comunicación efectiva, la empatía y la resolución de problemas. Actualmente, estoy enfocando mi transición hacia el análisis de datos y el desarrollo de soluciones tecnológicas que generen impacto.</b>
 </p>
 
 <br><hr width="60%" >
