@@ -35,10 +35,9 @@ Herramientas que manejo:</h3>
 
 <hr width="60%" >
 
-<p>&nbsp;
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=nikuvi&show_icons=true&theme=dark&locale=en" alt=nikuvi" />
- <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nikuvi&theme=dark" alt="nikuvi" /> 
-</p>
+[![iuricode](https://github-readme-stats.vercel.app/api?username=nikuvi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=nikuvi&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr width="60%" >
 
