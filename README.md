@@ -24,7 +24,7 @@ Sobre mí: </h3>
 
 <br><hr width="60%" >
  <img align="right" alt="sql" width="300" src="https://media1.tenor.com/m/Rtyg-9DI9EAAAAAd/sql.gif" width="150" height="130"/>
-<h3 align="left"><img src="https://github.com/user-attachments/assets/ed7e1be9-f542-4e81-b8c7-40bca900e529" alt="" width="20" height="20"/>
+<h3 align="left"><img src="https://img.icons8.com/?size=100&id=12784&format=png&color=000000" alt="" width="25" height="25"/>
 Herramientas que manejo:</h3>
 <p align="left"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
@@ -32,7 +32,24 @@ Herramientas que manejo:</h3>
  <img src="https://img.icons8.com/?size=256&id=13677&format=png" alt="photo" width="50" height="50"/>
  <img src="https://img.icons8.com/?size=256&id=117561&format=png" alt="excel" width="50" height="50"/>
  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="vsc" width="50" height="50"/>
+  
+<hr width="60%" >
+  <h3 align="left"><img src="https://img.icons8.com/?size=100&id=118805&format=png&color=000000" alt="" width="25" height="25"/>
+Herramientas que estoy aprendiendo:</h3>
+<p align="left"> 
+ <img src="https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000" alt="mongodb" width="50" height="50"/>
+ <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="tableau" width="50" height="50"/>
 
+<hr width="60%" >
+  <h3 align="left"><img src="https://img.icons8.com/?size=100&id=MmkqIRv7P6Xy&format=png&color=000000" alt="" width="25" height="25"/>
+Librerias:</h3>
+<p align="left"> 
+ <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" />
+ <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+ <img src="https://img.shields.io/badge/Seaborn-77A5D5?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn" />
+ <img src="https://img.shields.io/badge/MatplotLib-2C2D72?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib" />
+ <img src="https://img.shields.io/badge/Geopandas-60A650?style=for-the-badge&logo=geopandas&logoColor=white" alt="geopandas" />
+ <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 <hr width="60%" >
 
 [![iuricode](https://github-readme-stats.vercel.app/api?username=nikuvi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
