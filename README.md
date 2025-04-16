@@ -32,6 +32,7 @@ Herramientas que manejo:</h3>
  <img src="https://img.icons8.com/?size=256&id=13677&format=png" alt="photo" width="50" height="50"/>
  <img src="https://img.icons8.com/?size=256&id=117561&format=png" alt="excel" width="50" height="50"/>
  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="vsc" width="50" height="50"/>
+ <img src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000" alt="figma" width="50" height="50"/>
   
 <hr width="60%" >
   <h3 align="left"><img src="https://img.icons8.com/?size=100&id=118805&format=png&color=000000" alt="" width="25" height="25"/>
