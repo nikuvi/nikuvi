@@ -42,6 +42,13 @@ Herramientas que estoy aprendiendo:</h3>
  <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="tableau" width="50" height="50"/>
 
 <hr width="60%" >
+  <h3 align="left"><img src="https://img.icons8.com/?size=100&id=nmt7myytP45P&format=png&color=000000" alt="" width="25" height="25"/>
+Herramientas que quiero aprender:</h3>
+<p align="left"> 
+ <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="aws" width="50" height="50"/>
+ <img src="" alt="" width="50" height="50"/>
+
+<hr width="60%" >
   <h3 align="left"><img src="https://img.icons8.com/?size=100&id=MmkqIRv7P6Xy&format=png&color=000000" alt="" width="25" height="25"/>
 Librerias:</h3>
 <p align="left"> 
