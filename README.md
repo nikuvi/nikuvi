@@ -59,6 +59,7 @@ Librerias:</h3>
  <img src="https://img.shields.io/badge/Geopandas-60A650?style=for-the-badge&logo=geopandas&logoColor=white" alt="geopandas" />
  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
  <img src="https://img.shields.io/badge/Colorama-FFC0CB?style=for-the-badge&logo=colorama&logoColor=white" alt="colorama" />
+ <img src="https://img.shields.io/badge/Statsmodels-FFC0CB?style=for-the-badge&logo=statsmodels&logoColor=white" alt="statsmodels" />
 <hr width="60%" >
 
 [![iuricode](https://github-readme-stats.vercel.app/api?username=nikuvi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
