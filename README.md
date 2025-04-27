@@ -8,12 +8,12 @@
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=nikuvi&label=Profile%20views&color=0e75b6&style=flat" alt="nikuvi" /> 
 </p>
-<div align=center>
+<p align=center>
      <a href="https://www.linkedin.com/in/nicoleviviant/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
      <a href="https://discord.com/users/nikuvi"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /> </a>
      <a href="mailto:nicoleviviant@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a>
      <a href="https://t.me/nicoleviviant"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a>
- </div>
+ </p>
 
 <h3 align="left"><img src="https://github.com/user-attachments/assets/6fdbdd15-e028-44e4-a8d5-c2be1c7265b3" alt="" width="20" height="20"/>
  <img align="right" alt="data" width="300" src="https://media1.tenor.com/m/Ymj95Wad2LoAAAAd/gollum-power-bi.gif" width="150" height="130"/>
