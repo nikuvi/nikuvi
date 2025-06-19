@@ -18,12 +18,12 @@
 <h3 align="left"><img src="https://github.com/user-attachments/assets/6fdbdd15-e028-44e4-a8d5-c2be1c7265b3" alt="" width="20" height="20"/>
  <img align="right" alt="data" width="300" src="https://media1.tenor.com/m/Ymj95Wad2LoAAAAd/gollum-power-bi.gif" width="150" height="130"/>
 Sobre mí: </h3>
- <p>
+<p align="left">
 ✏️¡Hola!
-<b>Soy Data Analyst con manejo de Python, SQL, Power BI y librerías como Pandas, NumPy, Matplotlib, Seaborn, GeoPandas y Scikit-learn.</b>
-<b>Tras 8 años en atención al cliente, desarrollé sólidas habilidades en comunicación, gestión de conflictos y trabajo en equipo. </b>
-<b>Hoy aplico mi perfil técnico y analítico para transformar datos en insights accionables que respalden decisiones estratégicas y generen impacto real.</b>
-<b>Me apasiona la tecnología y el aprendizaje continuo, y cuento con inglés fluido</b>
+<br>Soy Data Analyst con manejo de Python, SQL, Power BI y librerías como Pandas, NumPy, Matplotlib, Seaborn, GeoPandas y Scikit-learn.
+<br>Tras 8 años en atención al cliente, desarrollé sólidas habilidades en comunicación, gestión de conflictos y trabajo en equipo.
+<br>Hoy aplico mi perfil técnico y analítico para transformar datos en insights accionables que respalden decisiones estratégicas y generen impacto real.
+<br>Me apasiona la tecnología y el aprendizaje continuo, y cuento con inglés fluido
 </p>
 
 <br><hr width="60%" >
