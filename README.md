@@ -20,10 +20,10 @@
 Sobre mí: </h3>
  <p>
 ✏️¡Hola!
-Soy Data Analyst con manejo de Python, SQL, Power BI y librerías como Pandas, NumPy, Matplotlib, Seaborn, GeoPandas y Scikit-learn.
-Tras 8 años en atención al cliente, desarrollé sólidas habilidades en comunicación, gestión de conflictos y trabajo en equipo. 
-Hoy aplico mi perfil técnico y analítico para transformar datos en insights accionables que respalden decisiones estratégicas y generen impacto real.
-Me apasiona la tecnología y el aprendizaje continuo, y cuento con inglés fluido
+<b>Soy Data Analyst con manejo de Python, SQL, Power BI y librerías como Pandas, NumPy, Matplotlib, Seaborn, GeoPandas y Scikit-learn.</b>
+<b>Tras 8 años en atención al cliente, desarrollé sólidas habilidades en comunicación, gestión de conflictos y trabajo en equipo. </b>
+<b>Hoy aplico mi perfil técnico y analítico para transformar datos en insights accionables que respalden decisiones estratégicas y generen impacto real.</b>
+<b>Me apasiona la tecnología y el aprendizaje continuo, y cuento con inglés fluido</b>
 </p>
 
 <br><hr width="60%" >
