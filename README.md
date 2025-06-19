@@ -26,9 +26,10 @@
 <br>Me apasiona la tecnología y el aprendizaje continuo, y cuento con inglés fluido
 </h2>
 
-<br><hr width="60%" >
- <img align="right" alt="sql" width="300" src="https://media1.tenor.com/m/Rtyg-9DI9EAAAAAd/sql.gif" width="150" height="130"/>
+<hr width="60%" >
+
 <h3 align="left"><img src="https://img.icons8.com/?size=100&id=12784&format=png&color=000000" alt="" width="25" height="25"/>
+  <img align="right" alt="sql" width="300" src="https://media1.tenor.com/m/Rtyg-9DI9EAAAAAd/sql.gif" width="150" height="130"/>
 Herramientas que manejo:</h3>
 <p align="left"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
