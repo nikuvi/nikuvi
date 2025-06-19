@@ -51,7 +51,7 @@ Herramientas que quiero aprender:</h3>
 <p align="left"> 
   <img src="https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000" alt="mongodb" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="aws" width="50" height="50"/>
-<p/>
+</p>
 
 <hr width="60%" >
   <h3 align="left"><img src="https://img.icons8.com/?size=100&id=MmkqIRv7P6Xy&format=png&color=000000" alt="" width="25" height="25"/>
@@ -67,11 +67,22 @@ Librerias:</h3>
  <img src="https://img.shields.io/badge/Statsmodels-808080?style=for-the-badge&logo=statsmodels&logoColor=white" alt="statsmodels" />
 <hr width="60%" >
 
+<p align="left">
 [![iuricode](https://github-readme-stats.vercel.app/api?username=nikuvi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=nikuvi&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <hr width="60%" >
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=nikuvi&theme=dracula" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikuvi&hide=html&layout=compact&theme=dracula" />
+  </a>
+</p>
+
 
 ### Github Repos
 
