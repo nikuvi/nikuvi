@@ -18,16 +18,16 @@
   <a href="https://t.me/nicoleviviant"><img src="https://img.icons8.com/?size=100&id=Ai1GT4W6UPLG&format=png&color=000000" alt="Telegram"/></a>
 </p>
 
-<h3 align="left"><img src="https://github.com/user-attachments/assets/6fdbdd15-e028-44e4-a8d5-c2be1c7265b3" alt="" width="20" height="20"/>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/6fdbdd15-e028-44e4-a8d5-c2be1c7265b3" alt="" width="20" height="20"/>
 Sobre mí: </h3>
 
-<p align="center">
+<h2 align="center">
 ✏️¡Hola!
 <br>Soy Data Analyst con manejo de Python, SQL, Power BI y librerías como Pandas, NumPy, Matplotlib, Seaborn, GeoPandas y Scikit-learn.
 <br>Tras 8 años en atención al cliente, desarrollé sólidas habilidades en comunicación, gestión de conflictos y trabajo en equipo.
 <br>Hoy aplico mi perfil técnico y analítico para transformar datos en insights accionables que respalden decisiones estratégicas y generen impacto real.
 <br>Me apasiona la tecnología y el aprendizaje continuo, y cuento con inglés fluido
-</p>
+</h2>
 
 <br><hr width="60%" >
  <img align="right" alt="sql" width="300" src="https://media1.tenor.com/m/Rtyg-9DI9EAAAAAd/sql.gif" width="150" height="130"/>
