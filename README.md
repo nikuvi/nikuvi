@@ -4,10 +4,13 @@
    <br>
    <img src="https://readme-typing-svg.herokuapp.com?color=FA8072&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola+soy+Nicole+%F0%9F%91%8B" alt="Headline" />
 </div>
- <h3 align="center">☕Contacto:</h3>
+  
+  <h3 align="center">☕Contacto:</h3>
+  
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=nikuvi&label=Profile%20views&color=0e75b6&style=flat" alt="nikuvi" /> 
 </p>
+  
 <p align="center">
   <a href="https://www.linkedin.com/in/nicoleviviant/"><img src="https://img.icons8.com/?size=100&id=WyB8Jtm9PZoo&format=png&color=000000" alt="LinkedIn"/></a>&nbsp;
   <a href="https://discord.com/users/nikuvi"><img src="https://img.icons8.com/?size=100&id=36wRfL5VpMnw&format=png&color=000000" alt="Discord"/></a>&nbsp;
@@ -18,6 +21,7 @@
 <h3 align="left"><img src="https://github.com/user-attachments/assets/6fdbdd15-e028-44e4-a8d5-c2be1c7265b3" alt="" width="20" height="20"/>
  <img align="right" alt="data" width="300" src="https://media1.tenor.com/m/Ymj95Wad2LoAAAAd/gollum-power-bi.gif" width="150" height="130"/>
 Sobre mí: </h3>
+
 <p align="left">
 ✏️¡Hola!
 <br>Soy Data Analyst con manejo de Python, SQL, Power BI y librerías como Pandas, NumPy, Matplotlib, Seaborn, GeoPandas y Scikit-learn.
@@ -37,15 +41,19 @@ Herramientas que manejo:</h3>
  <img src="https://img.icons8.com/?size=256&id=117561&format=png" alt="excel" width="50" height="50"/>
  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="vsc" width="50" height="50"/>
  <img src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000" alt="figma" width="50" height="50"/>
-  
+</p>
+
 <hr width="60%" >
+
   <h3 align="left"><img src="https://img.icons8.com/?size=100&id=118805&format=png&color=000000" alt="" width="25" height="25"/>
 Herramientas que estoy aprendiendo:</h3>
 <p align="left"> 
   <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="tableau" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" alt="R" width="50" height="50"/>
+</p>
 
 <hr width="60%" >
+
   <h3 align="left"><img src="https://img.icons8.com/?size=100&id=nmt7myytP45P&format=png&color=000000" alt="" width="25" height="25"/>
 Herramientas que quiero aprender:</h3>
 <p align="left"> 
@@ -54,6 +62,7 @@ Herramientas que quiero aprender:</h3>
 </p>
 
 <hr width="60%" >
+
   <h3 align="left"><img src="https://img.icons8.com/?size=100&id=MmkqIRv7P6Xy&format=png&color=000000" alt="" width="25" height="25"/>
 Librerias:</h3>
 <p align="left"> 
@@ -65,18 +74,16 @@ Librerias:</h3>
  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
  <img src="https://img.shields.io/badge/Colorama-FFC0CB?style=for-the-badge&logo=colorama&logoColor=white" alt="colorama" />
  <img src="https://img.shields.io/badge/Statsmodels-808080?style=for-the-badge&logo=statsmodels&logoColor=white" alt="statsmodels" />
-<hr width="60%" >
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=nikuvi&theme=dracula" />
-  </a>&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikuvi&hide=html&layout=compact&theme=dracula" />
-  </a>&nbsp;
 </p>
 
-<hr width="60%" >
+  <hr width="60%" >
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=nikuvi&theme=dracula" /</a>&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikuvi&hide=html&layout=compact&theme=dracula" /></a>&nbsp;
+</p>
+
+  <hr width="60%" >
 
 ### Github Repos
 
