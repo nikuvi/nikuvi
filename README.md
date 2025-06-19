@@ -43,6 +43,8 @@ Herramientas que manejo:</h3>
  <img src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000" alt="figma" width="50" height="50"/>
 </p>
 
+<img align="right" alt="sql" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5hZXE2bGM1bnFxN3hiZDhzdm5zMzRib2d0aGV1MmNjOHUzaWwyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="150" height="130"/>
+
 <hr width="60%" >
 
 <h3 align="left"><img src="https://img.icons8.com/?size=100&id=118805&format=png&color=000000" alt="" width="25" height="25"/>
@@ -51,8 +53,6 @@ Herramientas que estoy aprendiendo:</h3>
   <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="tableau" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" alt="R" width="50" height="50"/>
 </p>
-
-<img align="right" alt="sql" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5hZXE2bGM1bnFxN3hiZDhzdm5zMzRib2d0aGV1MmNjOHUzaWwyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="150" height="130"/>
 
 <hr width="60%" >
 
