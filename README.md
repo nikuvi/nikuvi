@@ -68,13 +68,6 @@ Librerias:</h3>
 <hr width="60%" >
 
 <p align="left">
-[![iuricode](https://github-readme-stats.vercel.app/api?username=nikuvi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=nikuvi&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
-<hr width="60%" >
-
-<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=nikuvi&theme=dracula" />
   </a>
@@ -83,6 +76,7 @@ Librerias:</h3>
   </a>
 </p>
 
+<hr width="60%" >
 
 ### Github Repos
 
