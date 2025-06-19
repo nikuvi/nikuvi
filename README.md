@@ -9,10 +9,10 @@
  <img src="https://komarev.com/ghpvc/?username=nikuvi&label=Profile%20views&color=0e75b6&style=flat" alt="nikuvi" /> 
 </p>
 <p align=center>
-     <a href="https://www.linkedin.com/in/nicoleviviant/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
-     <a href="https://discord.com/users/nikuvi"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /> </a>
+     <a href="https://www.linkedin.com/in/nicoleviviant/"><img src="https://img.icons8.com/?size=100&id=WyB8Jtm9PZoo&format=png&color=000000" alt="LinkedIn" /> </a>
+     <a href="https://discord.com/users/nikuvi"><img src="https://img.icons8.com/?size=100&id=36wRfL5VpMnw&format=png&color=000000" alt="discord" /> </a>
      <a href="mailto:nicoleviviant@gmail.com"><img src="https://img.icons8.com/?size=100&id=K1IV4wU6ceuS&format=png&color=000000" alt="Email" /> </a>
-     <a href="https://t.me/nicoleviviant"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a>
+     <a href="https://t.me/nicoleviviant"><img src="https://img.icons8.com/?size=100&id=Ai1GT4W6UPLG&format=png&color=000000" alt="Telegram" /> </a>
  </p>
 
 <h3 align="left"><img src="https://github.com/user-attachments/assets/6fdbdd15-e028-44e4-a8d5-c2be1c7265b3" alt="" width="20" height="20"/>
