@@ -21,7 +21,7 @@
 <h3 align="left"><img src="https://github.com/user-attachments/assets/6fdbdd15-e028-44e4-a8d5-c2be1c7265b3" alt="" width="20" height="20"/>
 Sobre mí: </h3>
 
-<p align="left">
+<p align="center">
 ✏️¡Hola!
 <br>Soy Data Analyst con manejo de Python, SQL, Power BI y librerías como Pandas, NumPy, Matplotlib, Seaborn, GeoPandas y Scikit-learn.
 <br>Tras 8 años en atención al cliente, desarrollé sólidas habilidades en comunicación, gestión de conflictos y trabajo en equipo.
