@@ -19,7 +19,11 @@
  <img align="right" alt="data" width="300" src="https://media1.tenor.com/m/Ymj95Wad2LoAAAAd/gollum-power-bi.gif" width="150" height="130"/>
 Sobre mí: </h3>
  <p>
- ✏️¡Hola! Soy una apasionada de la tecnología en formación como Programadora y Analista de Datos, con un fuerte compromiso por el aprendizaje continuo y la innovación en el ámbito tech. A lo largo de 8 años en atención al cliente, desarrollé habilidades sólidas en comunicación asertiva, gestión de conflictos y trabajo en equipo, siempre con un enfoque orientado a soluciones. Ahora, estoy dando el salto hacia el análisis de datos y el desarrollo tecnológico, donde busco aplicar mis conocimientos técnicos y analíticos para transformar información en insights accionables que impulsen decisiones estratégicas y generen impacto real.</b>
+✏️¡Hola!
+Soy Data Analyst con manejo de Python, SQL, Power BI y librerías como Pandas, NumPy, Matplotlib, Seaborn, GeoPandas y Scikit-learn.
+Tras 8 años en atención al cliente, desarrollé sólidas habilidades en comunicación, gestión de conflictos y trabajo en equipo. 
+Hoy aplico mi perfil técnico y analítico para transformar datos en insights accionables que respalden decisiones estratégicas y generen impacto real.
+Me apasiona la tecnología y el aprendizaje continuo, y cuento con inglés fluido
 </p>
 
 <br><hr width="60%" >
@@ -38,15 +42,16 @@ Herramientas que manejo:</h3>
   <h3 align="left"><img src="https://img.icons8.com/?size=100&id=118805&format=png&color=000000" alt="" width="25" height="25"/>
 Herramientas que estoy aprendiendo:</h3>
 <p align="left"> 
- <img src="https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000" alt="mongodb" width="50" height="50"/>
- <img src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" alt="R" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="tableau" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" alt="R" width="50" height="50"/>
 
 <hr width="60%" >
   <h3 align="left"><img src="https://img.icons8.com/?size=100&id=nmt7myytP45P&format=png&color=000000" alt="" width="25" height="25"/>
 Herramientas que quiero aprender:</h3>
 <p align="left"> 
- <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="aws" width="50" height="50"/>
- <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="tableau" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000" alt="mongodb" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="aws" width="50" height="50"/>
+<p/>
 
 <hr width="60%" >
   <h3 align="left"><img src="https://img.icons8.com/?size=100&id=MmkqIRv7P6Xy&format=png&color=000000" alt="" width="25" height="25"/>
