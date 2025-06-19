@@ -8,12 +8,12 @@
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=nikuvi&label=Profile%20views&color=0e75b6&style=flat" alt="nikuvi" /> 
 </p>
-<p align=center>
-     <a href="https://www.linkedin.com/in/nicoleviviant/"><img src="https://img.icons8.com/?size=100&id=WyB8Jtm9PZoo&format=png&color=000000" alt="LinkedIn" /> </a>
-     <a href="https://discord.com/users/nikuvi"><img src="https://img.icons8.com/?size=100&id=36wRfL5VpMnw&format=png&color=000000" alt="discord" /> </a>
-     <a href="mailto:nicoleviviant@gmail.com"><img src="https://img.icons8.com/?size=100&id=K1IV4wU6ceuS&format=png&color=000000" alt="Email" /> </a>
-     <a href="https://t.me/nicoleviviant"><img src="https://img.icons8.com/?size=100&id=Ai1GT4W6UPLG&format=png&color=000000" alt="Telegram" /> </a>
- </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicoleviviant/"><img src="https://img.icons8.com/?size=100&id=WyB8Jtm9PZoo&format=png&color=000000" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://discord.com/users/nikuvi"><img src="https://img.icons8.com/?size=100&id=36wRfL5VpMnw&format=png&color=000000" alt="Discord"/></a>&nbsp;
+  <a href="mailto:nicoleviviant@gmail.com"><img src="https://img.icons8.com/?size=100&id=K1IV4wU6ceuS&format=png&color=000000" alt="Email"/></a>&nbsp;
+  <a href="https://t.me/nicoleviviant"><img src="https://img.icons8.com/?size=100&id=Ai1GT4W6UPLG&format=png&color=000000" alt="Telegram"/></a>
+</p>
 
 <h3 align="left"><img src="https://github.com/user-attachments/assets/6fdbdd15-e028-44e4-a8d5-c2be1c7265b3" alt="" width="20" height="20"/>
  <img align="right" alt="data" width="300" src="https://media1.tenor.com/m/Ymj95Wad2LoAAAAd/gollum-power-bi.gif" width="150" height="130"/>
