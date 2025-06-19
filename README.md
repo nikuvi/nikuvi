@@ -62,6 +62,8 @@ Herramientas que quiero aprender:</h3>
 </p>
 
 <hr width="60%" >
+ <img align="right" alt="sql" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVjYWhtaDc4Z2sxajNyM3AycWpkYWZpcm52cmJ0dGhuY2g1anJndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NyvreZAtNLrNKTrKa/giphy.gif" width="150" height="130"/>
+<hr width="60%" >
 
   <h3 align="left"><img src="https://img.icons8.com/?size=100&id=MmkqIRv7P6Xy&format=png&color=000000" alt="" width="25" height="25"/>
 Librerias:</h3>
