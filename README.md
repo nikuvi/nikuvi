@@ -1,13 +1,13 @@
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=nikuvi&label=Profile%20views&color=0e75b6&style=flat" alt="nikuvi" /> 
+</p>
+
 <div>
   <div align=center>
    <img src="https://media.tenor.com/uF7aJqxcM6QAAAAj/digital-skola-bertalenta-digital.gif" alt="" />
    <br>
    <img src="https://readme-typing-svg.herokuapp.com?color=FA8072&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola+soy+Nicole+%F0%9F%91%8B" alt="Headline" />
 </div>
-  
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=nikuvi&label=Profile%20views&color=0e75b6&style=flat" alt="nikuvi" /> 
-</p>
 
 <h2 align="center">☕Contacto:</h2>
 
