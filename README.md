@@ -1,7 +1,3 @@
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=nikuvi&label=Profile%20views&color=0e75b6&style=flat" alt="nikuvi" /> 
-</p>
-
 <div>
   <div align=center>
    <img src="https://media.tenor.com/uF7aJqxcM6QAAAAj/digital-skola-bertalenta-digital.gif" alt="" />
@@ -25,6 +21,10 @@
 <br>Hoy aplico mi perfil técnico y analítico para transformar datos en insights accionables que respalden decisiones estratégicas y generen impacto real.
 <br>Me apasiona la tecnología y el aprendizaje continuo, y cuento con inglés fluido
 </h2>
+
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=nikuvi&label=Profile%20views&color=0e75b6&style=flat" alt="nikuvi" /> 
+</p>
 
 <hr width="60%" >
 
