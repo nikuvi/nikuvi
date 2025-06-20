@@ -5,13 +5,12 @@
    <img src="https://readme-typing-svg.herokuapp.com?color=FA8072&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola+soy+Nicole+%F0%9F%91%8B" alt="Headline" />
 </div>
 
-<h2 align="center">☕Contacto:</h2>
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/nicoleviviant/"><img src="https://img.icons8.com/?size=100&id=WyB8Jtm9PZoo&format=png&color=000000" alt="LinkedIn" width="100" height="100" /></a>&nbsp;
-  <a href="https://discord.com/users/nikuvi"><img src="https://img.icons8.com/?size=100&id=36wRfL5VpMnw&format=png&color=000000" alt="Discord" width="100" height="100" /></a>&nbsp;
-  <a href="mailto:nicoleviviant@gmail.com"><img src="https://img.icons8.com/?size=100&id=K1IV4wU6ceuS&format=png&color=000000" alt="Email" width="100" height="100" /></a>&nbsp;
-  <a href="https://t.me/nicoleviviant"><img src="https://img.icons8.com/?size=100&id=Ai1GT4W6UPLG&format=png&color=000000" alt="Telegram" width="100" height="100" /></a>
+  <h2>☕Contacto:</h2>
+  <a href="https://www.linkedin.com/in/nicoleviviant/"><img src="https://img.icons8.com/?size=100&id=WyB8Jtm9PZoo&format=png&color=000000" alt="LinkedIn" width="80" height="80" /></a>&nbsp;
+  <a href="https://discord.com/users/nikuvi"><img src="https://img.icons8.com/?size=100&id=36wRfL5VpMnw&format=png&color=000000" alt="Discord" width="80" height="80" /></a>&nbsp;
+  <a href="mailto:nicoleviviant@gmail.com"><img src="https://img.icons8.com/?size=100&id=K1IV4wU6ceuS&format=png&color=000000" alt="Email" width="80" height="80" /></a>&nbsp;
+  <a href="https://t.me/nicoleviviant"><img src="https://img.icons8.com/?size=100&id=Ai1GT4W6UPLG&format=png&color=000000" alt="Telegram" width="80" height="80" /></a>
 </div>
 
 <div>
@@ -25,9 +24,9 @@
 </div>
 
 <div>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=nikuvi&label=Profile%20views&color=0e75b6&style=flat" alt="nikuvi" /> 
-</p>
+  <p align="center"> 
+   <img src="https://komarev.com/ghpvc/?username=nikuvi&label=Profile%20views&color=0e75b6&style=flat" alt="nikuvi" /> 
+  </p>
 </div>
 
 <hr width="60%" >
