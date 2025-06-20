@@ -12,7 +12,7 @@
 </p>
   
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicoleviviant/"><img src="https://img.icons8.com/?size=100&id=WyB8Jtm9PZoo&format=png&color=000000" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/nicoleviviant/"><img src="https://img.icons8.com/?size=100&id=WyB8Jtm9PZoo&format=png&color=000000" alt="LinkedIn" width="50" height="50"/></a>&nbsp;
   <a href="https://discord.com/users/nikuvi"><img src="https://img.icons8.com/?size=100&id=36wRfL5VpMnw&format=png&color=000000" alt="Discord"/></a>&nbsp;
   <a href="mailto:nicoleviviant@gmail.com"><img src="https://img.icons8.com/?size=100&id=K1IV4wU6ceuS&format=png&color=000000" alt="Email"/></a>&nbsp;
   <a href="https://t.me/nicoleviviant"><img src="https://img.icons8.com/?size=100&id=Ai1GT4W6UPLG&format=png&color=000000" alt="Telegram"/></a>
