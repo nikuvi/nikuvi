@@ -89,15 +89,6 @@
 
 <hr width="60%" >
 
-<div>
-  <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=nikuvi&theme=dracula" /</a>&nbsp;
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikuvi&hide=html&layout=compact&theme=dracula" /></a>&nbsp;
-  </p>
-</div>
-
-<hr width="60%" >
-
 <h3>My Projects</h3>
 <table>
   <thead align="center">
@@ -171,6 +162,15 @@
   </tbody>
 </table>
 
+<hr width="60%" >
 
+<div>
+  <p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=nikuvi&theme=dracula" /</a>&nbsp;
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikuvi&hide=html&layout=compact&theme=dracula" /></a>&nbsp;
+  </p>
+</div>
+
+<hr width="60%" >
 
 
