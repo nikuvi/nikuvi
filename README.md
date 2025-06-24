@@ -41,7 +41,8 @@
    <img src="https://img.icons8.com/?size=256&id=13677&format=png" alt="photo" width="50" height="50"/>
    <img src="https://img.icons8.com/?size=256&id=117561&format=png" alt="excel" width="50" height="50"/>
    <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="vsc" width="50" height="50"/>
-   <img src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000" alt="figma" width="50" height="50"/>
+   <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" alt="postgre" width="50" height="50"/>
+   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="50" height="50"/>
   </p>
 </div>
 
@@ -96,6 +97,49 @@
 </div>
 
 <hr width="60%" >
+
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>🧩 Languages</b></td>
+      <td><b>🛎️ Last Commit</b></td>
+      <td><b>📁 Rep Size</b></td>
+      <td><b>👤 Contributors</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/nikuvi/Gametime-Stats---NBA-Data-Analytics-Consultancy"><b>NBA Data Analytics Consultancy</b></a></td>
+      <td><img alt="Languages" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/nikuvi/Gametime-Stats---NBA-Data-Analytics-Consultancy?style=for-the-badge)"/></td>
+      <td><img alt="Rep Size" src="https://img.shields.io/github/repo-size/nikuvi/Gametime-Stats---NBA-Data-Analytics-Consultancy?style=for-the-badge"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/nikuvi/Gametime-Stats---NBA-Data-Analytics-Consultancy?style=for-the-badge"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/nikuvi/Adventures-Work-Cycles"><b>Adventures Work Cycles</b></a></td>
+      <td><img alt="Languages" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/nikuvi/Adventures-Work-Cycles?style=for-the-badge)"/></td>
+      <td><img alt="Rep Size" src="https://img.shields.io/github/repo-size/nikuvi/Adventures-Work-Cycles?style=for-the-badge"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/nikuvi/Adventures-Work-Cycles?style=for-the-badge"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nikuvi/Biogenesys"><b>Biogenesys</b></a></td>
+      <td><img alt="Languages" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/nikuvi/Biogenesys?style=for-the-badge)"/></td>
+      <td><img alt="Rep Size" src="https://img.shields.io/github/repo-size/nikuvi/Biogenesys?style=for-the-badge"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/nikuvi/Biogenesys?style=for-the-badge"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nikuvi/MyStreamerSearcher"><b>MyStreamerSearcher</b></a></td>
+      <td><img alt="Languages" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/></td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/nikuvi/MyStreamerSearcher?style=for-the-badge)"/></td>
+      <td><img alt="Rep Size" src="https://img.shields.io/github/repo-size/nikuvi/MyStreamerSearcher?style=for-the-badge"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/nikuvi/MyStreamerSearcher?style=for-the-badge"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Github Repos
 
