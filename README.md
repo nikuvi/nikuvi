@@ -165,9 +165,9 @@
 <hr width="120%" >
 
 <div>
-  <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=nikuvi&theme=dracula" /</a>&nbsp;
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikuvi&hide=html&layout=compact&theme=dracula" /></a>&nbsp;
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=nikuvi&theme=dracula" /</a>;
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikuvi&hide=html&layout=compact&theme=dracula" /></a>;
   </p>
 </div>
 
