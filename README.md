@@ -29,14 +29,14 @@
   </p>
 </div>
 
-<hr width="60%" >
+<hr width="120%" >
 
-<h3>My Projects</h3>
+<h3>Mis Proyectos</h3>
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>💡 Projects</b></td>
-      <td><b>⚙️ Tool</b></td>
+      <td><b>💡 Proyectos</b></td>
+      <td><b>⚙️ Herramientas</b></td>
       <td><b>🛎️ Last Commit</b></td>
       <td><b>📁 Rep Size</b></td>
       <td><b>👤 Contributors</b></td>
