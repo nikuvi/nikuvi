@@ -104,12 +104,12 @@
     <tr>
       <td><a href="https://github.com/nikuvi/Gametime-Stats---NBA-Data-Analytics-Consultancy"><b>NBA Data Analytics Consultancy</b></a></td>
       <td>
-	<img alt="git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="20" widht="20"/>
-	<img alt="python" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="20" widht="20"/>
-	<img alt="powerbi" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="20" widht="20"/>
-	<img alt="googlecloud" src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" height="20" widht="20"/>
-	<img alt="googledrive" src="https://img.icons8.com/?size=100&id=eKDChMKt75eu&format=png&color=000000" height="20" widht="20"/>
-	<img alt="sqlserver" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" height="20" widht="20"/>
+	<img alt="git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="20" width="20"/>
+	<img alt="python" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="20" width="20"/>
+	<img alt="powerbi" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="20" width="20"/>
+	<img alt="googlecloud" src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" height="20" width="20"/>
+	<img alt="googledrive" src="https://img.icons8.com/?size=100&id=eKDChMKt75eu&format=png&color=000000" height="20" width="20"/>
+	<img alt="sqlserver" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" height="20" width="20"/>
       </td>
       <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/nikuvi/Gametime-Stats---NBA-Data-Analytics-Consultancy?style=for-the-badge)"/></td>
       <td><img alt="Rep Size" src="https://img.shields.io/github/repo-size/nikuvi/Gametime-Stats---NBA-Data-Analytics-Consultancy?style=for-the-badge"/></td>
@@ -118,8 +118,8 @@
 	  <tr>
       <td><a href="https://github.com/nikuvi/Adventures-Work-Cycles"><b>Adventures Work Cycles</b></a></td>
       <td>
-	<img alt="powerbi" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="20" widht="20"/>
-	<img alt="git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="20" widht="20"/>
+	<img alt="powerbi" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="20" width="20"/>
+	<img alt="git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="20" width="20"/>
       </td>
       <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/nikuvi/Adventures-Work-Cycles?style=for-the-badge)"/></td>
       <td><img alt="Rep Size" src="https://img.shields.io/github/repo-size/nikuvi/Adventures-Work-Cycles?style=for-the-badge"/></td>
@@ -128,9 +128,9 @@
     <tr>
       <td><a href="https://github.com/nikuvi/Biogenesys"><b>Biogenesys</b></a></td>
       <td>
-	<img alt="git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="20" widht="20"/>
-	<img alt="python" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="20" widht="20"/>
-	<img alt="powerbi" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="20" widht="20"/>
+	<img alt="git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="20" width="20"/>
+	<img alt="python" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="20" width="20"/>
+	<img alt="powerbi" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="20" width="20"/>
       </td>
       <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/nikuvi/Biogenesys?style=for-the-badge)"/></td>
       <td><img alt="Rep Size" src="https://img.shields.io/github/repo-size/nikuvi/Biogenesys?style=for-the-badge"/></td>
@@ -139,8 +139,8 @@
     <tr>
       <td><a href="https://github.com/nikuvi/MyStreamerSearcher"><b>MyStreamerSearcher</b></a></td>
       <td>
-	<img alt="python" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="20" widht="20"/>
-	<img alt="git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="20" widht="20"/>
+	<img alt="python" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="20" width="20"/>
+	<img alt="git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="20" width="20"/>
       </td>
       <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/nikuvi/MyStreamerSearcher?style=for-the-badge)"/></td>
       <td><img alt="Rep Size" src="https://img.shields.io/github/repo-size/nikuvi/MyStreamerSearcher?style=for-the-badge"/></td>
@@ -149,11 +149,11 @@
     <tr>
       <td><a href="https://github.com/nikuvi/Formula1"><b>Formula 1 (En progreso...)</b></a></td>
       <td>
-	<img alt="git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="20" widht="20"/>
-	<img alt="python" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="20" widht="20"/>
-	<img alt="powerbi" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="20" widht="20"/>
-	<img alt="sqlserver" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" height="20" widht="20"/>
-	<img alt="postgresql" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" height="20" widht="20"/>
+	<img alt="git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="20" width="20"/>
+	<img alt="python" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="20" width="20"/>
+	<img alt="powerbi" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="20" width="20"/>
+	<img alt="sqlserver" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" height="20" width="20"/>
+	<img alt="postgresql" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" height="20" width="20"/>
       </td>
       <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/nikuvi/Formula1?style=for-the-badge)"/></td>
       <td><img alt="Rep Size" src="https://img.shields.io/github/repo-size/nikuvi/Formula1?style=for-the-badge"/></td>
