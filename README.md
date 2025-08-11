@@ -95,7 +95,6 @@
 	<img alt="python" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="20" width="20"/>
 	<img alt="powerbi" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="20" width="20"/>
 	<img alt="sqlserver" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" height="20" width="20"/>
-	<img alt="postgresql" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" height="20" width="20"/>
       </td>
       <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/nikuvi/Formula1?style=for-the-badge)"/></td>
       <td><img alt="Rep Size" src="https://img.shields.io/github/repo-size/nikuvi/Formula1?style=for-the-badge"/></td>
