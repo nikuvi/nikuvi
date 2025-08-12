@@ -118,7 +118,6 @@
       <td>
 	<img alt="git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="20" width="20"/>
 	<img alt="python" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="20" width="20"/>
-	<img alt="powerbi" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="20" width="20"/>
 	<img alt="sqlserver" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" height="20" width="20"/>
 	<img alt="tableau" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" height="20" width="20"/>
       </td>
