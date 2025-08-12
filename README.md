@@ -29,7 +29,7 @@
   </p>
 </div>
 
-<hr width="60%" >
+<hr width="120%" >
 
 <h3>Mis Proyectos</h3>
 <table>
