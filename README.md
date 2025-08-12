@@ -29,7 +29,7 @@
   </p>
 </div>
 
-<hr width="120%" >
+<hr width="100%" >
 
 <h3>Mis Proyectos</h3>
 <table>
@@ -116,7 +116,7 @@
   </tbody>
 </table>
 
-<hr width="60%" >
+<hr width="100%" >
 
 <div>
   <h3 align="left"><img src="https://img.icons8.com/?size=100&id=12784&format=png&color=000000" alt="" width="25" height="25"/>
@@ -174,7 +174,7 @@
   </p>
 </div>
 
-<hr width="120%" >
+<hr width="100%" >
 
 <div>
   <p align="center">
