@@ -88,6 +88,19 @@
       <td><img alt="Rep Size" src="https://img.shields.io/github/repo-size/nikuvi/MyStreamerSearcher?style=for-the-badge"/></td>
       <td><img alt="Contributors" src="https://img.shields.io/github/contributors/nikuvi/MyStreamerSearcher?style=for-the-badge"/></td>
     </tr>
+	<tr>
+      <td><a href="https://github.com/nikuvi/DatawiseConsulting"><b>DataWise Consulting</b></a></td>
+      <td>
+	<img alt="appscript" src="https://github.com/user-attachments/assets/9b7a72ba-d62a-457d-ab14-1171b42396f5" height="20" width="20"/>
+	<img alt="lookerstudio" src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" height="20" width="20"/>
+	<img alt="googlesheets" src="https://img.icons8.com/?size=100&id=30461&format=png&color=000000" height="20" width="20"/>
+	<img alt="googleslides" src="https://img.icons8.com/?size=100&id=30462&format=png&color=000000" height="20" width="20"/>
+	<img alt="googledocs" src="https://img.icons8.com/?size=100&id=30464&format=png&color=000000" height="20" width="20"/>
+      </td>
+      <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/nikuvi/DatawiseConsulting?style=for-the-badge)"/></td>
+      <td><img alt="Rep Size" src="https://img.shields.io/github/repo-size/nikuvi/DatawiseConsulting?style=for-the-badge"/></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/nikuvi/DatawiseConsulting?style=for-the-badge"/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/nikuvi/Formula1"><b>Formula 1 (En progreso...)</b></a></td>
       <td>
@@ -129,6 +142,7 @@
    <img src="https://img.icons8.com/?size=256&id=117561&format=png" alt="excel" width="50" height="50"/>
    <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="vsc" width="50" height="50"/>
    <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="50" height="50"/>
+   <img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" alt="looker studio" width="50" height="50"/>
   </p>
 </div>
 
