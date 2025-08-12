@@ -174,7 +174,7 @@
   </p>
 </div>
 
-<hr width="60%" >
+<hr width="120%" >
 
 <div>
   <p align="center">
