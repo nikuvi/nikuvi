@@ -152,6 +152,7 @@
    <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="vsc" width="50" height="50"/>
    <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="50" height="50"/>
    <img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" alt="looker studio" width="45" height="45"/>
+   <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" alt="jupyer" width="45" height="45"/>
   </p>
 </div>
 
