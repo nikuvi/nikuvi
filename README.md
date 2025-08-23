@@ -145,14 +145,18 @@
     <img align="right" alt="sql" width="300" src="https://media1.tenor.com/m/Rtyg-9DI9EAAAAAd/sql.gif" width="150" height="130"/>
   Herramientas que manejo:</h3>
   <p align="left"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-   <img src="https://img.icons8.com/?size=256&id=Ny0t2MYrJ70p&format=png" alt="power bi" width="50" height="50"/>
-   <img src="https://img.icons8.com/?size=256&id=13677&format=png" alt="photo" width="50" height="50"/>
-   <img src="https://img.icons8.com/?size=256&id=117561&format=png" alt="excel" width="50" height="50"/>
-   <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="vsc" width="50" height="50"/>
-   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="50" height="50"/>
-   <img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" alt="looker studio" width="45" height="45"/>
-   <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" alt="jupyer" width="45" height="45"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+	<img src="https://img.icons8.com/?size=256&id=Ny0t2MYrJ70p&format=png" alt="power bi" width="50" height="50"/>
+	<img src="https://img.icons8.com/?size=256&id=13677&format=png" alt="photo" width="50" height="50"/>
+	<img src="https://img.icons8.com/?size=256&id=117561&format=png" alt="excel" width="50" height="50"/>
+	<img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="vsc" width="50" height="50"/>
+	<img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="50" height="50"/>
+	<img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" alt="looker studio" width="45" height="45"/>
+	<img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" alt="jupyer" width="45" height="45"/>
+	<img src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" alt="googlecloud" width="45" height="45"/>
+	<img src="https://img.icons8.com/?size=100&id=F6H2fsqXKBwH&format=png&color=000000" alt="notion" width="45" height="45"/>
+	<img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" alt="sql" width="45" height="45"/>
+	<img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="pandas" width="45" height="45"/>
   </p>
 </div>
 
@@ -177,6 +181,10 @@
   <p align="left"> 
     <img src="https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000" alt="mongodb" width="50" height="50"/>
     <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="aws" width="50" height="50"/>
+	<img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" alt="postresql" width="50" height="50"/>
+	<img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="docker" width="50" height="50"/>
+	<img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="azure" width="50" height="50"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="50" height="50"/>
   </p>
 </div>
 
