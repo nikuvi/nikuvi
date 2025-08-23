@@ -169,6 +169,8 @@
   <p align="left"> 
     <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="tableau" width="50" height="50"/>
     <img src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" alt="R" width="50" height="50"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="50" height="50"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="50" height="50"/>
   </p>
 </div>
 
@@ -184,7 +186,7 @@
 	<img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" alt="postresql" width="50" height="50"/>
 	<img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="docker" width="50" height="50"/>
 	<img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="azure" width="50" height="50"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="50" height="50"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="45" height="45"/>
   </p>
 </div>
 
