@@ -16,10 +16,9 @@
 <div>
   <h2 align="center">
   ✏️¡Hola!
-  <br>Soy Data Analyst con manejo de Python, SQL, Power BI y librerías como Pandas, NumPy, Matplotlib, Seaborn, GeoPandas y Scikit-learn.
+  <br>Soy Data Analyst con manejo de Python, SQL, Power BI, Looker Studio y librerías como Pandas, NumPy, Matplotlib, Seaborn, GeoPandas y Scikit-learn.
   <br>Tras 8 años en atención al cliente, desarrollé sólidas habilidades en comunicación, gestión de conflictos y trabajo en equipo.
-  <br>Hoy aplico mi perfil técnico y analítico para transformar datos en insights accionables que respalden decisiones estratégicas y generen impacto real.
-  <br>Me apasiona la tecnología y el aprendizaje continuo, y cuento con inglés fluido
+  <br>Me apasiona la tecnología y el aprendizaje continuo, y cuento con buen nivel de inglés.
   </h2>
 </div>
 
